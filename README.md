@@ -16,8 +16,7 @@ This project implements a driver drowsiness detector using computer vision techn
 ## Installation
 1. Clone the repository:
 git clone https://github.com/pixelatednerd/driver-drowsiness-detector.git
-2. Install the required packages:
-pip install -r requirements.txt
+2. Install the required packages.
 
 ## Usage
 
